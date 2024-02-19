@@ -1,0 +1,6 @@
+.vs/
+App.config
+Properties/
+osipovgit.csproj
+osipovgit.sln
+obj/
