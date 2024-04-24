@@ -11,8 +11,8 @@ namespace osipovgit
         static void Main(string[] args)
         {
             int x = 64;
-            int y = 8;
-            Console.WriteLine($"Вывод: {x/y}");
+            int b = 8;
+            Console.WriteLine($"Вывод: {x/b}");
         }
     }
 }
